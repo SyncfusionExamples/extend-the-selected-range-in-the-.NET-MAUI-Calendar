@@ -2,7 +2,7 @@
 
 This repository contains a sample to extend the selected range in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13915/how-to-extend-the-selected-range-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
